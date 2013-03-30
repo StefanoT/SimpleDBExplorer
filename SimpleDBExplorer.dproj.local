@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/06/20 12:15:37.000.796,=C:\Users\UTENTE\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2012/06/20 12:28:55.000.627,C:\Users\UTENTE\Documents\RAD Studio\Projects\Unit2.dfm=C:\ST\ST\SimpleDBExplorer\SimpleDBExplorerUnit.dfm</Transaction>
+    <Transaction>2012/06/20 12:28:55.000.627,C:\Users\UTENTE\Documents\RAD Studio\Projects\Unit2.pas=C:\ST\ST\SimpleDBExplorer\SimpleDBExplorerUnit.pas</Transaction>
+    <Transaction>2012/06/20 12:29:04.000.598,C:\Users\UTENTE\Documents\RAD Studio\Projects\Project1.dproj=C:\ST\ST\SimpleDBExplorer\SimpleDBExplorer.dproj</Transaction>
+    <Transaction>2012/06/30 12:47:49.000.399,=C:\ST\ST\SimpleDBExplorer\Unit1.pas</Transaction>
+    <Transaction>2012/06/30 12:48:59.000.577,C:\ST\ST\SimpleDBExplorer\Unit1.pas=C:\ST\ST\SimpleDBExplorer\Data.Cloud.AmazonAPIEx.pas</Transaction>
+  </Transactions>
+</BorlandProject>
